@@ -1,6 +1,6 @@
-.imagen-de-jhon{
-    width: 100px;
-    height: 100px;
+.jhon{
+    width: 224px;
+    height: 225px;
     padding: 0px;
 
 }
@@ -18,8 +18,7 @@
     width: 800px;
 }
 .contactos {
-    font-size: 30px;
-    
+    font-size: 40px;
 }
 .nav {
 color: brown;
@@ -27,19 +26,22 @@ color: brown;
 
 
 .clase{
-    font-size: 15px;
+    font-size: 10px;
 }
 @media (max-width: 800px) {
     .jhon {
-        width: 40px;
-    height: 40px;
-    padding: 6px;
+        width: 224px;
+    height: 225px;
+    
     }
    .acerca-de-mi{
         font-size: 10px;
     }
     .contactos{
-        font-size: 30px;
+        font-size: 50px;
+        padding: 30px;
+        width: 1000px;
+        height: 100px;
     }
   
 }
