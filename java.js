@@ -1,2 +1,2 @@
-const nombre = prompt ("como te llamas")
+const nombre = prompt ("hola como te llamas")
 alert ("hola " + nombre + " bienvenido")
